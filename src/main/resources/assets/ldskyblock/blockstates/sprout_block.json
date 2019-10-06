@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "ldskyblock:block/sprout_block" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ldskyblock:block/wood_oven_top",
+    "down": "ldskyblock:block/wood_oven_top",
+    "up": "ldskyblock:block/wood_oven_top",
+    "east": "ldskyblock:block/wood_oven_side",
+    "west": "ldskyblock:block/wood_oven_side",
+    "north": "ldskyblock:block/wood_oven_side",
+    "south": "ldskyblock:block/wood_oven_front"
+  }
+}
